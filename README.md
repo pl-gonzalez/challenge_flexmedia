@@ -213,7 +213,7 @@ Os dados coletados são organizados em três categorias principais:
 ---
 
 ## 📎 10. Link do Repositório
-https://github.com/nomedogrupo/challenge-flexmedia
+https://github.com/pl-gonzalez/challenge_flexmedia
 
 ---
 💡 *Esta documentação refere-se à Sprint 1 (Proposta Técnica Inicial).*
