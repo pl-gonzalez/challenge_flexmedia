@@ -16,6 +16,8 @@ O projeto visa o desenvolvimento de um sistema inteligente de atendimento em tot
 
 A solução busca integrar IA, voz e interface multimodal (voz, toque e avatar) para oferecer uma experiência intuitiva, com gestão centralizada de conteúdo via CMS e compatibilidade com diversos sistemas operacionais (Android, Windows, Linux e Web).
 
+Pensado para atender visitantes de espaços educativos, como museus e zoologicos, fornecendo novas experiencias a esses ambientes, aumentando a imersão ao ambiente. 
+
 
 
 ---
